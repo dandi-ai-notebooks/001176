@@ -1,0 +1,10 @@
+{
+  "model": "openrouter/quasar-alpha",
+  "vision_model": "openrouter/quasar-alpha",
+  "total_prompt_tokens": 353431,
+  "total_completion_tokens": 5857,
+  "total_vision_prompt_tokens": 2832,
+  "total_vision_completion_tokens": 621,
+  "timestamp": "2025-04-09 21:23:29",
+  "elapsed_time_seconds": 293.1228656768799
+}
